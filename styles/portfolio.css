@@ -7,6 +7,7 @@ nav{
     font-size: 45px;
     font-weight: 800;
     justify-content: space-between;
+    margin:0 200px;
 }
 .span{
     color: #FD6E0A;
@@ -35,5 +36,15 @@ nav a{
     border:0;
     padding: 15px 35px;
     
+
+}
+/* header related class */
+.banner{
+   padding: 30px 30x 30px 150px; 
+   display: flex;
+   align-items: center;
+}
+.banner .profill{
+    width:500px;
 
 }
